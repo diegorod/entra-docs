@@ -360,6 +360,7 @@ Here's how you would do to get your certificate from KeyVault. Microsoft identit
         "KeyVaultUrl": "https://yourKeyVaultUrl.vault.azure.net",
         "KeyVaultCertificateName": "NameOfYourCertificate"
       }
+    ]
 ```
 
 # [Java](#tab/java)
